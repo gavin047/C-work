@@ -1,3 +1,6 @@
+// auhtor : gavin  michori
+//reg no : bscit-01-0025/2025
+//date : 22/05/2025
 #include <iostream>
 #include <cmath>
 using namespace std;
